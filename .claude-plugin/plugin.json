@@ -1,0 +1,16 @@
+{
+  "name": "landing-copy",
+  "version": "0.1.0",
+  "description": "Writes page copy from the keyword map and product context - headline, subheadline, benefits, objections, CTA, with variants - where every claim has proof.",
+  "author": {
+    "name": "nvvdev",
+    "url": "https://github.com/nvv-dev"
+  },
+  "homepage": "https://github.com/nvv-dev/landing-copy",
+  "repository": "https://github.com/nvv-dev/landing-copy",
+  "license": "MIT",
+  "keywords": [
+    "skill",
+    "growth-workflow"
+  ]
+}
